@@ -1,0 +1,6 @@
+c:\users\nc185147\onedrive - ncr corporation\documents\visual studio 2015\Projects\Abstarct Fact\Abstarct Fact\bin\Debug\Abstarct Fact.exe.config
+c:\users\nc185147\onedrive - ncr corporation\documents\visual studio 2015\Projects\Abstarct Fact\Abstarct Fact\bin\Debug\Abstarct Fact.exe
+c:\users\nc185147\onedrive - ncr corporation\documents\visual studio 2015\Projects\Abstarct Fact\Abstarct Fact\bin\Debug\Abstarct Fact.pdb
+c:\users\nc185147\onedrive - ncr corporation\documents\visual studio 2015\Projects\Abstarct Fact\Abstarct Fact\obj\Debug\Abstarct Fact.csprojResolveAssemblyReference.cache
+c:\users\nc185147\onedrive - ncr corporation\documents\visual studio 2015\Projects\Abstarct Fact\Abstarct Fact\obj\Debug\Abstarct Fact.exe
+c:\users\nc185147\onedrive - ncr corporation\documents\visual studio 2015\Projects\Abstarct Fact\Abstarct Fact\obj\Debug\Abstarct Fact.pdb
